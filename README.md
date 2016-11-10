@@ -1,23 +1,29 @@
 # Introduction
 
-## What is git? 
-version control
+## What is git?
+- an unpleasant or contemptible person
+- contempt - the feeling that a person or a thing is worthless or beneath consideration
 
 ## What is a dist version control system?
+- versioning control system
+- allows many software developers to work on a given project without requiring them to share a common network
+- https://en.wikipedia.org/wiki/Distributed_version_control
 
-## Why git?
+## Why Github?
+- large amount of project
+- big ecosystem 
+- popular package management tools use github
 
 ## SSH keys
 https://help.github.com/articles/generating-an-ssh-key/
 
-
 # Master
 ## Create one repo
-Clone to local machine 
+`action: create repo`
 
-`action: edit README.md`
+`action: everyone to clone to local machine`
 
-`action: add commit push to master, all hell breaks out!`
+`action: everyone edit README.md`
 
 ## What is git status?
 git index
@@ -26,11 +32,13 @@ git index
 
 `action: commit with a good commit messages`
 
+`action: push to master, all hell breaks out!`
+
 # Branching
 * Why? 
 * What they are for?
 
-`action: create a branch each`
+`action: create a branch each, git checkout`
 
 `action: write to same readme.me file about yourself`
 
