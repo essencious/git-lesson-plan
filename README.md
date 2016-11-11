@@ -38,6 +38,8 @@ git index
 * Why? 
 * What they are for?
 
+![Branching in git](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/hero.svg)
+
 `action: create a branch each, git checkout`
 
 `action: write to same readme.me file about yourself`
