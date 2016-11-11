@@ -66,9 +66,11 @@ questions?
 
 
 # Resources:
-* https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+* https://www.atlassian.com/git/
 * https://www.atlassian.com/git/tutorials/what-is-git/performance
-* https://www.git-tower.com/blog/git-cheat-sheet/
 * https://www.atlassian.com/git/tutorials/using-branches/
+* https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+* https://www.git-tower.com/blog/git-cheat-sheet/
+
 
 
