@@ -1,17 +1,13 @@
 # Introduction
 
-## What is git?
-- an unpleasant or contemptible person
-- contempt - the feeling that a person or a thing is worthless or beneath consideration
-
-## What is a dist version control system?
+## What is a distributed version control system?
 - versioning control system
 - allows many software developers to work on a given project without requiring them to share a common network
 - https://en.wikipedia.org/wiki/Distributed_version_control
 
 ## Why Github?
 - large amount of project
-- big ecosystem 
+- big ecosystem
 - popular package management tools use github
 
 ## SSH keys
@@ -35,7 +31,7 @@ git index
 `action: push to master, all hell breaks out!`
 
 # Branching
-* Why? 
+* Why?
 * What they are for?
 
 ![Branching in git](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/hero.svg)
@@ -71,6 +67,3 @@ questions?
 * https://www.atlassian.com/git/tutorials/using-branches/
 * https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 * https://www.git-tower.com/blog/git-cheat-sheet/
-
-
-
